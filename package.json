@@ -69,7 +69,7 @@
     "compare-versions": "^6.1.1",
     "cors": "^2.8.5",
     "deepmerge": "^4.2.2",
-    "express": "^5.1.0",
+    "express": "^5.2.1",
     "fast-copy": "^3.0.2",
     "fast-equals": "^5.0.1",
     "fast-glob": "^3.3.2",
