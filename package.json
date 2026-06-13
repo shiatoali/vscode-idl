@@ -168,7 +168,7 @@
     "buffer": "^6.0.3",
     "chart.js": "^4.4.3",
     "cypress": "14.2.1",
-    "esbuild": "0.19.2",
+    "esbuild": "0.28.1",
     "eslint": "8.57.0",
     "eslint-config-prettier": "10.0.0",
     "eslint-plugin-cypress": "2.13.4",
